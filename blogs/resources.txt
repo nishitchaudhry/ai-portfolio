@@ -1,0 +1,9 @@
+Week - 0 - Refreshers
+
+1. FAST AI DL Course - https://course.fast.ai/Lessons/lesson1.html
+2. CNN Notes - https://cs231n.github.io/convolutional-networks/#conv
+3. Transformers Notes - https://jalammar.github.io/illustrated-transformer/
+4. Transformers Video - https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction
+5. PyTorch Attention Tutorial (SDPA) - https://docs.pytorch.org/tutorials/intermediate/scaled_dot_product_attention_tutorial.html
+
+
